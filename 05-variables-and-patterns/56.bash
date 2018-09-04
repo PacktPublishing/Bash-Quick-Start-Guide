@@ -1,0 +1,2 @@
+$ printf '%s\n' ????ber
+october

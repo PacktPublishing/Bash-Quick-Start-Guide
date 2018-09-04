@@ -1,0 +1,6 @@
+$ declare -p
+declare -- BASH="/bin/bash"
+declare -r BASHOPTS="cdspell:checkhash...
+declare -ir BASHPID
+declare -- PS1="\\u@\\h:\\w\\$ "
+...

@@ -1,0 +1,1 @@
+bash$ man printf

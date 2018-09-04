@@ -1,0 +1,3 @@
+$ sed 's/stream/river/'
+The sed utility is a river editor that shall read one or more text files,
+...

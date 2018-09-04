@@ -1,0 +1,2 @@
+$ cat myfile
+Hello, file!

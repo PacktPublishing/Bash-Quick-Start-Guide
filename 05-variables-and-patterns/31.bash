@@ -1,0 +1,1 @@
+$ mypwent="$(getent passwd "$(whoami)")"

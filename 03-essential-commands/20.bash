@@ -1,0 +1,2 @@
+bash$ pwd
+/home/bashuser

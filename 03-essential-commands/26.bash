@@ -1,0 +1,2 @@
+bash$ echo ~notauser
+~notauser

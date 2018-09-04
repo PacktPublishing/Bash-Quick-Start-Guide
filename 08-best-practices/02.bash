@@ -1,0 +1,3 @@
+newvar=$myvar
+case $myvar in ...
+[[ $myvar = "$othervar" ]]

@@ -1,0 +1,1 @@
+$ find ~/recipes ! -name '*chicken*'

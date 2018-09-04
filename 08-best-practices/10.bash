@@ -1,0 +1,1 @@
+$ cp -- "$myvar" destdir

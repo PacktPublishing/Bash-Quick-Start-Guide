@@ -1,0 +1,1 @@
+/bin/sed '/^$/d' data

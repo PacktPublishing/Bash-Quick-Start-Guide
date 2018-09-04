@@ -1,0 +1,2 @@
+bash$ hello
+Hello, bashuser!

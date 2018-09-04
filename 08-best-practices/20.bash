@@ -1,0 +1,2 @@
+$ myscript -c
+$ myscript --createdir

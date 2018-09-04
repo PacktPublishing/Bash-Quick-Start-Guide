@@ -1,0 +1,1 @@
+declare -- BASH="/bin/bash"

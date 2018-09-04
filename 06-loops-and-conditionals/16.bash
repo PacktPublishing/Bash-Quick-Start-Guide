@@ -1,0 +1,3 @@
+if ((bytes / 1000 > kbytes)) ; then
+    ...
+fi
