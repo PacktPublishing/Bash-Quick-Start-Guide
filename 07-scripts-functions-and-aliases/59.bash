@@ -1,5 +1,5 @@
 die() {
-    printf >&2 "$@"
+    printf >&2 '%s\n' "$@"
     exit 1
 }
 tempfile=$(mktemp) || die 'Could not create temporary file'

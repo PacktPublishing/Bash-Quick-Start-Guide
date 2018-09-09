@@ -1,2 +1,2 @@
 $ ls -a
-.bashrc  april  august  october  september
+.  ..  .bashrc  april  august  october  september
