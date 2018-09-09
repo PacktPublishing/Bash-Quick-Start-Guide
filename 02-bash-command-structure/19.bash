@@ -1,1 +1,1 @@
-bash$ cd && rmdir ~/nonexistent && ls
+$ cd && rmdir ~/nonexistent && ls

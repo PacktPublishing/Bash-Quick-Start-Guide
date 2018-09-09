@@ -1,4 +1,4 @@
-bash$ echo 'quotes
+$ echo 'quotes
 > foo
 > bar'
 quotes

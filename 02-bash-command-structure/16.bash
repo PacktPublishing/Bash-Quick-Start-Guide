@@ -1,6 +1,6 @@
-bash$ mkdir ~/nonexistent
-bash$ echo $?
+$ mkdir ~/nonexistent
+$ echo $?
 0
-bash$ rmdir ~/nonexistent
-bash$ echo $?
+$ rmdir ~/nonexistent
+$ echo $?
 0

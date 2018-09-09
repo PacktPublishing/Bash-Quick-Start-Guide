@@ -1,2 +1,2 @@
-bash$ echo 'It'\''s today'
+$ echo 'It'\''s today'
 It's today

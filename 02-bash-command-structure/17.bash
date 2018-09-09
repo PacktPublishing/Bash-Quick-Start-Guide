@@ -1,4 +1,4 @@
-bash$ true ; echo $?
+$ true ; echo $?
 0
-bash$ false ; echo $?
+$ false ; echo $?
 1

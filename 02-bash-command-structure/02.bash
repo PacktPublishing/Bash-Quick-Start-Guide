@@ -1,1 +1,1 @@
-bash$ mkdir -p New/bash
+$ mkdir -p New/bash

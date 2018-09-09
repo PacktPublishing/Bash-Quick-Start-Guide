@@ -1,2 +1,2 @@
-bash$ echo "Hello $USER"'!!'
+$ echo "Hello $USER"'!!'
 Hello bashuser!!

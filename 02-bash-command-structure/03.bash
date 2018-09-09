@@ -1,2 +1,2 @@
-bash$ echo \\backslash\\
+$ echo \\backslash\\
 \backslash\

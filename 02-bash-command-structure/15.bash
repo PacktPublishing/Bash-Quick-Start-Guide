@@ -1,4 +1,4 @@
-bash$ rmdir ~/nonexistent
+$ rmdir ~/nonexistent
 rmdir: failed to remove '/home/bashuser/nonexistent': No such file or directory
-bash$ echo $?
+$ echo $?
 1

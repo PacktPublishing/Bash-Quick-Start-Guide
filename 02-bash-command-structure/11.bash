@@ -1,2 +1,2 @@
-bash$ echo "Backticks! \`\`\`"
+$ echo "Backticks! \`\`\`"
 Backticks! ```
