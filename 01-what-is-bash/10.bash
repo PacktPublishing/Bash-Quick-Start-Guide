@@ -1,1 +1,1 @@
-$ cat /etc/shells
+bash$ help printf

@@ -1,1 +1,1 @@
-declare -- BASH="/bin/bash"
+$ echo "$SHELL"

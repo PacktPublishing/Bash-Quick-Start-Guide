@@ -1,1 +1,1 @@
-$ echo "$SHELL"
+$ chsh -s /usr/local/bin/bash

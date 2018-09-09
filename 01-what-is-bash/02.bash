@@ -1,1 +1,1 @@
-bash$ declare -p BASH
+declare -- BASH="/bin/bash"
