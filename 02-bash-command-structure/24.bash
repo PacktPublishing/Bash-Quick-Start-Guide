@@ -1,1 +1,1 @@
-bash$ cd;ls -a;mkdir New
+bash$ cd ; ls -a ; mkdir New

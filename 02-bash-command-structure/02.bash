@@ -1,2 +1,2 @@
-bash$ man 1 bash
+bash$ man bash
 bash$ man 3 readline
