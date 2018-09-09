@@ -1,2 +1,1 @@
-bash$ man bash
-bash$ man 3 readline
+bash$ mkdir -p New/bash

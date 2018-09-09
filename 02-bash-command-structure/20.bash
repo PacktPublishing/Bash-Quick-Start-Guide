@@ -1,4 +1,2 @@
-bash$ echo "Not a variable: \$total"
-Not a variable: $total
-bash$ echo "Back\\to\\back\\slashes"
-Back\to\back\slashes
+bash$ cd ~/nonexistent && rmdir ~/nonexistent && ls
+bash: cd: /home/bashuser/nonexistent: No such file or directory
