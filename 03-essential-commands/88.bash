@@ -1,1 +1,1 @@
-$ find myproject -name '.git*' -prune -o -print
+$ find vim -type f -name '*.vim' | xargs grep -F search --

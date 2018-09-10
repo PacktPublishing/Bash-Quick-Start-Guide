@@ -1,4 +1,3 @@
-$ find vim -type f -name '*.vim'
-vim/config/main.vim
-vim/maps.vim
-vim/patterns.vim
+$ sort /etc/shells
+$ sort ~/file1 ~/file2
+$ printf '%s\n' 'Line 2' 'Line1' | sort

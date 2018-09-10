@@ -1,5 +1,5 @@
-if [ -e customers ] ; then
-    printf >&2 'Customers file already exists, renaming'
-    mv customers customers-old
-fi
-mv customers-new customers
+$ cp -Rv olddir newdir
+'olddir' -> 'newdir'
+'olddir/file1' -> 'newdir/file1'
+'olddir/file2' -> 'newdir/file2'
+'olddir/file3' -> 'newdir/file3'

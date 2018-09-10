@@ -1,5 +1,5 @@
 $ ls
-oldfile
-$ cp oldfile newfile
+file1  file2  file3
+$ rm file1 file2
 $ ls
-oldfile newfile
+file3

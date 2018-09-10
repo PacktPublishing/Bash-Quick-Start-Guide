@@ -1,1 +1,1 @@
-$ find ~/recipes ~/manuals todo.txt
+$ find myproject -name '.git*' -prune -o -print

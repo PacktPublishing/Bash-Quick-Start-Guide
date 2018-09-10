@@ -1,3 +1,3 @@
-bash$ type -a [
-[ is a shell builtin
-[ is /usr/bin/[
+# Bad code
+$ grep pattern `ls`
+$ for file in `ls` ; do grep pattern $file ; done

@@ -1,1 +1,4 @@
-$ mv file1 file2 dir1 path/to/directory
+$ ls
+olddir
+$ cp olddir newdir
+cp: -r not specified; omitting directory 'olddir'

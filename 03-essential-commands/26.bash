@@ -1,2 +1,5 @@
-$ echo ~notauser
-~notauser
+$ pwd
+/home/bashuser
+$ cd ..
+$ pwd
+/home

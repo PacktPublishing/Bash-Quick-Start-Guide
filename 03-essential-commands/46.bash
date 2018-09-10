@@ -1,2 +1,5 @@
-$ grep pattern -- *
-$ find . -type f -exec grep pattern -- {} \;
+$ ls
+oldfile
+$ cp oldfile newfile
+$ ls
+oldfile newfile

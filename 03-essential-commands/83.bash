@@ -1,1 +1,1 @@
-$ find ~/recipes -name '*fish*' -print
+$ find vim -type f -name '*.vim' -exec grep -F search -- {} \;

@@ -1,4 +1,5 @@
-$ echo ~
+$ pwd
 /home/bashuser
-$ echo ~/important
-/home/bashuser/important
+$ cd /tmp
+$ pwd
+/tmp

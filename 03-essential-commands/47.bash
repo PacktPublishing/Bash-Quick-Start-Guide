@@ -1,1 +1,2 @@
-$ for file in * ; do grep -F pattern -- "$file" ; done
+$ cp -- -oldfile -newfile
+$ cp -- "$old" newdir

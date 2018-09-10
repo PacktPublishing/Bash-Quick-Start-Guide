@@ -1,5 +1,2 @@
-$ pwd
-/home/bashuser
-$ cd ..
-$ pwd
-/home
+$ test -e /etc/passwd && echo 'Password file exists!'
+Password file exists!

@@ -1,4 +1,3 @@
-$ echo ~root
-/root
-$ echo ~root/.ssh
-/root/.ssh
+$ cd
+$ pwd
+/home/bashuser

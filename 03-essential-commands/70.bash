@@ -1,5 +1,2 @@
-$ cut -d: -f6 /etc/passwd
-/root
-/usr/sbin
-/bin
-...
+$ wc -m -c japanese
+ 6 16 japanese

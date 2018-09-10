@@ -1,2 +1,2 @@
-$ grep 'telnet$' /etc/services
-tfido    60177/tcp  # fidonet EMSI over telnet
+$ grep -cFv -e bash -e '.' /etc/shells
+5

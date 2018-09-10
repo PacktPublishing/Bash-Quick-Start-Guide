@@ -1,2 +1,4 @@
-bash$ printf '%q\n' 'Watch out for thi$ $tring; it \has\ nasty character$!'
-Watch\ out\ for\ thi\$\ \$tring\;\ it\ \\has\\\ nasty\ character\$\!
+$ ls /home/bashuser/important/doc1.txt
+/home/bashuser/important/doc1.txt
+$ ls /home/bashuser/doc2.txt
+/home/bashuser/doc2.txt

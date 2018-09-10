@@ -1,2 +1,2 @@
-$ ls -a
-.  ..  .bashrc  .profile  books  documents  music
+$ mv file path/to/directory
+$ mv file1 file2

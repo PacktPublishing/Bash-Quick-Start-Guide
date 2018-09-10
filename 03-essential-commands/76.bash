@@ -1,2 +1,1 @@
-$ wc -m -c japanese
- 6 16 japanese
+$ find ~/recipes ~/manuals todo.txt

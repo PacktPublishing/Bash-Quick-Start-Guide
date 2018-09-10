@@ -1,5 +1,7 @@
-$ ls
-file1  file2  file3
-$ rm file1 file2
-$ ls
-file3
+$ grep -q telnet /etc/services && echo 'Matched!'
+Matched!
+$ echo $?
+0
+$ grep -q foobar /etc/services && echo 'Matched!'
+$ echo $?
+1

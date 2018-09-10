@@ -1,3 +1,2 @@
-bash$ declare -p BASH PWD
-declare -- BASH="/bin/bash"
-declare -x PWD="/home/bashuser"
+$ ls -a
+.  ..  .bashrc  .profile  books  documents  music

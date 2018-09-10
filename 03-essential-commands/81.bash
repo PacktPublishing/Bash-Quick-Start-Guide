@@ -1,1 +1,1 @@
-$ find ~/recipes | sort
+$ find ~/recipes ! -name '*chicken*'

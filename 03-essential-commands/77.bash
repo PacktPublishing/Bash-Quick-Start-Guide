@@ -1,2 +1,1 @@
-$ wc -c /bin/bash
-1099016
+$ find ~/recipes -name '*fish*' -print

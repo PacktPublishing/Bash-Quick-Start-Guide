@@ -1,3 +1,4 @@
-# Bad code
-$ grep pattern `ls`
-$ for file in `ls` ; do grep pattern $file ; done
+$ ls
+customers-new  customers
+$ mv -i customers-new customers
+mv: overwrite 'customers'?

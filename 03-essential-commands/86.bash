@@ -1,1 +1,1 @@
-$ find ~/recipes -mtime -5 -print
+$ find vim -type f -name '*.vim' -exec grep -F search -- {} +
