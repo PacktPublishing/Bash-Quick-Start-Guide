@@ -1,3 +1,3 @@
-bash$ cd
-bash$ pwd
+$ cd
+$ pwd
 /home/bashuser

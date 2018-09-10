@@ -1,4 +1,4 @@
-bash$ echo ~root
+$ echo ~root
 /root
-bash$ echo ~root/.ssh
+$ echo ~root/.ssh
 /root/.ssh

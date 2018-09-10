@@ -1,2 +1,0 @@
-bash$ echo -n
-bash$

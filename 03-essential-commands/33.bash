@@ -1,8 +1,8 @@
-bash$ pwd
+$ pwd
 /home/bashuser/scripts
-bash$ ls
+$ ls
 lstemp.bash
-bash$ bash lstemp.bash
+$ bash lstemp.bash
 tmpfile1 tmpfile2 tmpfile3
-bash$ pwd
+$ pwd
 /home/bashuser/scripts

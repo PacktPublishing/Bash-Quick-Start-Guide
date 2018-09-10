@@ -1,5 +1,5 @@
-bash$ pwd
+$ pwd
 /home/bashuser
-bash$ cd /tmp
-bash$ pwd
+$ cd /tmp
+$ pwd
 /tmp

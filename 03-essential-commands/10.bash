@@ -1,2 +1,2 @@
-bash$ echo 'Hello, '"$(whoami)"\!
+$ echo 'Hello, '"$USER"\!
 Hello, bashuser!

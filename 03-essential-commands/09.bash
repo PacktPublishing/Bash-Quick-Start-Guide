@@ -1,2 +1,2 @@
-bash$ echo Hello
+$ echo Hello
 Hello

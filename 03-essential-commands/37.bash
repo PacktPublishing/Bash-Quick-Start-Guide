@@ -1,2 +1,2 @@
-bash$ test -e /etc/passwd && echo 'Password file exists!'
+$ test -e /etc/passwd && echo 'Password file exists!'
 Password file exists!

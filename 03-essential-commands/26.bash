@@ -1,2 +1,2 @@
-bash$ echo ~notauser
+$ echo ~notauser
 ~notauser

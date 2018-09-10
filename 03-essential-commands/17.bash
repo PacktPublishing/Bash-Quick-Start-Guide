@@ -1,5 +1,5 @@
-bash$ printf '%s\n' -n
+$ printf '%s\n' -n
 -n
-bash$ string=-n
-bash$ printf '%s\n' "$string"
+$ string=-n
+$ printf '%s\n' "$string"
 -n

@@ -1,5 +1,5 @@
-bash$ pwd
+$ pwd
 /home/bashuser
-bash$ cd ..
-bash$ pwd
+$ cd ..
+$ pwd
 /home

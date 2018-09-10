@@ -1,4 +1,4 @@
-bash$ printf '%s\n' foo bar baz
+$ printf '%s\n' foo bar baz
 foo
 bar
 baz

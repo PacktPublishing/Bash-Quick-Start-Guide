@@ -1,4 +1,4 @@
-bash$ echo ~
+$ echo ~
 /home/bashuser
-bash$ echo ~/important
+$ echo ~/important
 /home/bashuser/important

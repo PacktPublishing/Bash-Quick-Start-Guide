@@ -1,1 +1,1 @@
-bash$ /bin/true
+$ /bin/true

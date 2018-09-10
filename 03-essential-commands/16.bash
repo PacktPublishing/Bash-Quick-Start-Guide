@@ -1,2 +1,2 @@
-bash$ printf '%s\n' 'Hello!'
+$ printf '%s\n' 'Hello!'
 Hello!
