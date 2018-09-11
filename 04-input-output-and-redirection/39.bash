@@ -1,5 +1,5 @@
 #!/bin/bash
-cat <<EOF
-Hello, $USER; you are running this program on $(hostname -s).
-Your home directory is $HOME.
+cat <<-'EOF'
+	Leading tabs
+		will not be included in the output
 EOF

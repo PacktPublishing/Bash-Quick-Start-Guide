@@ -1,4 +1,2 @@
-$ sed '' manual
-The sed utility is a stream editor that shall read one or more text files,
-make editing changes according to a script of editing commands,
+$ sed '1,2d' manual
 and write the results to standard output.

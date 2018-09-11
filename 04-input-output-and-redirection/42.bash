@@ -1,2 +1,1 @@
-$ ls words.*
-words.frequency  words.lowercase  words.sorted
+rm words.frequency words.lowercase words.sorted

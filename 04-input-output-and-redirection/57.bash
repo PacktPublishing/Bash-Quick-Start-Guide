@@ -1,2 +1,3 @@
-$ sed '1,2d' manual
-and write the results to standard output.
+$ sed 's/stream/river/' manual
+The sed utility is a river editor that shall read one or more text files,
+...

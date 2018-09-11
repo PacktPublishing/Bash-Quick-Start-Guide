@@ -1,5 +1,1 @@
-#!/bin/bash
-tr A-Z a-z |
-sort |
-uniq -c |
-sort -k1,1nr
+$ cat myfile1 myfile2 myfile3 > myfiles.combined

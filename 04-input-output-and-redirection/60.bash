@@ -1,5 +1,5 @@
-$ cat groceries
-Item    Quantity  Price
-Apples  5         0.50
-Cereal  1         3.40
-Soda    2         1.10
+$ awk '{ print $2, $3 }' groceries
+Quantity  Price
+5         0.50
+1         3.40
+2         1.10

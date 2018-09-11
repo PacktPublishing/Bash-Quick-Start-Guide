@@ -1,1 +1,1 @@
-rm words.frequency words.lowercase words.sorted
+tr A-Z a-z | sort | uniq -c | sort -k1,1nr

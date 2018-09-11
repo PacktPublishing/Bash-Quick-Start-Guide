@@ -1,12 +1,5 @@
 #!/bin/bash
-case $1 in
-    -h|--help)
-        cat <<'EOF'
-foo command help:
--h, --help: Show this help
--q, --quiet: Run without diagnostics
--v, --verbose: Add extra diagnostics
+cat <<EOF
+Hello, $USER; you are running this program on $(hostname -s).
+Your home directory is $HOME.
 EOF
-        exit 0
-        ;;
-esac

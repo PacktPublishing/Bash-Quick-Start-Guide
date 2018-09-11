@@ -1,5 +1,4 @@
-$ awk '{ print $2, $3 }' groceries
-Quantity  Price
-5         0.50
-1         3.40
-2         1.10
+$ awk 'NR > 1 { printf "$%.2f\n", $2 * $3 }' groceries
+$2.50
+$3.40
+$2.20

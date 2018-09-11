@@ -1,1 +1,1 @@
-$ cat mylines | tr a-z A-Z
+$ tr a-z A-Z < mylines

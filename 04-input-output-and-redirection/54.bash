@@ -1,4 +1,3 @@
-$ cat manual
-The sed utility is a stream editor that shall read one or more text files,
+$ sed '1d' manual
 make editing changes according to a script of editing commands,
 and write the results to standard output.

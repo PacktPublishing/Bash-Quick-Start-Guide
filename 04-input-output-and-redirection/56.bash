@@ -1,3 +1,2 @@
-$ sed '1d' manual
-make editing changes according to a script of editing commands,
+$ sed '1,/commands/d' manual
 and write the results to standard output.

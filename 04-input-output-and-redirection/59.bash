@@ -1,3 +1,5 @@
-$ sed 's/stream/river/' manual
-The sed utility is a river editor that shall read one or more text files,
-...
+$ awk '{ print $2 }' groceries
+Quantity
+5
+1
+2
