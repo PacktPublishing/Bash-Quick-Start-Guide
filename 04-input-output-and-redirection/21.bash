@@ -1,1 +1,1 @@
-$ grep pattern myfile /nonexistent >matches 2>matches
+$ grep pattern myfile /nonexistent > matches 2> matches

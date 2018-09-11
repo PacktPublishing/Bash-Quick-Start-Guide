@@ -1,1 +1,1 @@
-$ tr a-z A-Z <mylines
+$ tr a-z A-Z < mylines

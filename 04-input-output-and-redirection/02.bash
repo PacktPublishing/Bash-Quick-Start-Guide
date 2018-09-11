@@ -1,2 +1,2 @@
-$ printf 'Hello, file!\n' >myfile
+$ printf 'Hello, file!\n' > myfile
 $

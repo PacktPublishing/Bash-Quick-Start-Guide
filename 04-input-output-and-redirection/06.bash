@@ -1,1 +1,1 @@
-$ printf 'Hello, file!\n' >"$HOME"/myfile
+$ printf 'Hello, file!\n' > "$HOME"/myfile

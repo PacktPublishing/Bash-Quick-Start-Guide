@@ -1,3 +1,3 @@
 $ set -C
-$ printf 'Third command\n' >|myfile
+$ printf 'Third command\n' >| myfile
 $
