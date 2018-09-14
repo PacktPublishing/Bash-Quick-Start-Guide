@@ -2,6 +2,8 @@
 if [[ -r $HOME/.myscriptrc ]] ; then
     source "$HOME"/.myscriptrc
 fi
-if ((createdir)) ; then
-    mkdir -- "$HOME"/myscript || exit
-fi
+case $createdir in
+    y*|Y*)
+        mkdir -- "$HOME"/myscript || exit
+        ;;
+esac

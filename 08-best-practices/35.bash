@@ -1,2 +1,3 @@
-# Store the current date for later; requires GNU date
+# Store the current date for later
+# Requires GNU/BSD `date` with %s format
 date +%s > /tmp/myscript-timestamp

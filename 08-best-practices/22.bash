@@ -1,2 +1,2 @@
 $ cat ~/.myscriptrc
-createdir=1
+createdir=yes
