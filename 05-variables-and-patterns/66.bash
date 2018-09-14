@@ -1,2 +1,2 @@
 bash$ shopt -s nullglob
-bash$ cat -- *.c
+bash$ cat -- c*

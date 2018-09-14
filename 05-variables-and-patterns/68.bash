@@ -1,1 +1,1 @@
-bash$ fruits=('apple' 'banana' 'carrot')
+bash$ fruits=('apple' 'banana' 'cherry')
