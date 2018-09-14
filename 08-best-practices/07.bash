@@ -4,7 +4,7 @@ grepcmdline=(grep)
 # If the extended or fixed flags are set, add -F or -E
 if ((extended)) ; then
     grepcmdline+=(-E)
-elsif ((fixed)) ; then
+elif ((fixed)) ; then
     grepcmdline+=(-F)
 fi
 # Add each pattern to check
