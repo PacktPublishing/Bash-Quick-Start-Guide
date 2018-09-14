@@ -1,2 +1,2 @@
-bash$ declare -p SHELL
-declare -x SHELL="/usr/local/bin/bash"
+bash$ declare -p BASH
+declare -p SHELL="/usr/local/bin/bash"
